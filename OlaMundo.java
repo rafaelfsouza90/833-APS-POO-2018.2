@@ -1,4 +1,7 @@
-﻿package olamundo;
+//Exercício aula2
+//Criar o arquivo OlaMundo.java
+//Compilar e Executar.
+package olamundo;
 
 public class OlaMundo {
 
